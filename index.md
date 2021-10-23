@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Bienvenido a mi Portfolio Personal
 
-You can use the [editor on GitHub](https://github.com/AlbertSerratrice/PortFolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Soy Serratrice Alberto Adrian; de Resistencia, Chaco. Tengo 34 años. Actualmente entre otras varias capacitaciones sobre Programacion con modalidad OnLine me encuentro cursando el 3er Modulo del INFORMATORIO 2021. Soy Comerciante Autonomo, y tambien trabajo junto a un Diario local en la realizacion de un Suplemento, del cual yo mismo llevo las Estadisticas para su contenido y edicion Semanal.  
+Me estoy iniciando en el mundo de la Programacion, con el fin y la expectativa de poder entender y interpretar como funciona todo. Y poder seguir capacitandome, sobre todo hacia el universo de la IA. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Proyectos Realizados
 
-### Markdown
+* Forme parte de un Proyecto Grupal para el Modulo 2 del INFORMATORIO, que se trataba sobre crear una página web que representara un juego de multiple choice en conmemoración del Aniversario de la Provincia del Chaco.
+![WhatsApp Image 2021-10-23 at 11 42 03](https://user-images.githubusercontent.com/89018848/138561105-9263ed62-bc2e-42dd-96ec-223a2a070300.jpeg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![WhatsApp Image 2021-10-23 at 11 42 03 (1)](https://user-images.githubusercontent.com/89018848/138561129-3d8ce69c-0f55-4542-9212-bd50a1d26e59.jpeg)
+Les facilito el enlace del Proyecto [AppMultipleChoice](https://github.com/AndrRod/Proyecto-Informatorio-Grupo-4).
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+* Practicas con Formularios HTML para crear listas con opciones seleccionables.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+* Practicar como Crear un Boot para Twitter con Python/Django utilizando la Libreria Tweepy.
 
-**Bold** and _Italic_ and `Code` text
+Enlace del Proyecto Funcional [TwitterBoot](https://github.com/AlbertSerratrice/twbot).
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contacto
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlbertSerratrice/PortFolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ [GitHub](https://github.com/AlbertSerratrice) o [Linkedin](https://www.linkedin.com/in/adrian-alberto-serratrice-25921621/) ,o por [Facebook](https://www.facebook.com/adrianalberto.serratrice/)  
